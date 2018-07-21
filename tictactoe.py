@@ -4,6 +4,7 @@ import webbrowser
 #Comment the next two lines out if this computer does NOT support pywin32
 #import win32com.client as wincl
 #speak = wincl.Dispatch('SAPI.SpVoice')
+print("Content-Type: text/html")
 
 class Speaker:
     def __init__(self, thatsit):
