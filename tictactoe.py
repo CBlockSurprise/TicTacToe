@@ -829,7 +829,7 @@ def player2():
         if hasWon():
             ply2games += 1
             writefiles()
-            if wphf == 1:
+            if wpgf == 1:
                 print("Player 2 has won, and Player 1 has lost.")
                 speak.Speak("Player 2 has won, and Player 1 has lost.")
             else:
