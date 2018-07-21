@@ -1,6 +1,7 @@
 # TicTacToe
 
 This is Tic Tac Toe, featuring: One Player, Two Player, and AI vs AI!
+It is confusing (for me since there is over 900 lines of code) to have it in html, so it is on ???
 
 # Notes and Instructions
 
