@@ -1,0 +1,8 @@
+Player 1 games: 
+0
+Player 2 games: 
+0
+Ai games: 
+0
+Total games: 
+0
