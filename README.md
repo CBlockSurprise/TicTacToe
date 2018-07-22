@@ -21,4 +21,4 @@ For playing, (when you are playing) it will ask you for a column and a row. You 
 
 # Game Count
 
-While starting the game, it will show how many games you* play. 
+While starting the game, it will show how many games you* play. *You is every single person who has played. While making it, it was meant for one person. I'm too lazy too change it.
