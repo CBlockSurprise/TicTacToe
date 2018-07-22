@@ -21,6 +21,10 @@ For playing, (when you are playing) it will ask you for a column and a row. You 
 
 # Game Count
 
-While starting the game, it will show how many games you* play. 
+While starting the game, it will show how many games you play. All the numbers are going to be 0. It will never save. If you have it on your computer, it will save the count.
 
-*You is every single person who has played. While making it, it was meant for one person. I'm too lazy too change it. :P
+# IMPORTANT
+
+If you copy it onto your computer, you WILL NEED a file called 'tttfile.txt'. IT WILL GIVE YOU ERRORS WITHOUT IT.
+
+ALSO: FILE MUST BE IN SAME FOLDER AS TIC TAC TOE.
