@@ -11,9 +11,14 @@ Step 1: Go to Command Line, and if you have pip (if you don't, install it), ente
 
 Step 2: Once installed, go to the code that you copied and have on your programming compiler (with python set as programming language), go to the top and uncomment 'import win32com.client as wincl' and 'speak = wincl.Dispatch('SAPI.SpVoice')'. After, comment out 'speak = Speaker("why u no have pywin32")'. It should work. If errors, just comment out the import line and the speak = wincl line, and uncomment speak = Speaker line. 
 
+
 Also: Cats game is a tie. I just call it that.
 
 
 # Layout
 
 For playing, (when you are playing) it will ask you for a column and a row. You can refer to 'layout.png' to see which one you choose. The first number is the column in it, and the second number is the row. It will only work if the number is between 1 and 3.
+
+# Game Count
+
+While starting the game, it will show how many games you* play. 
