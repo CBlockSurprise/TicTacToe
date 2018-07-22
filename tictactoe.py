@@ -123,7 +123,7 @@ def hasWon():
         if line3[1] == "O":
             if line3[2] == "O":
                 return True
-    #jk i'm stopping with dat
+    #i'm stopping with dat
     if line1[0] == "O":
         if line2[0] == "O":
             if line3[0] == "O":
@@ -161,7 +161,7 @@ def hasWon():
         if line3[1] == "X":
             if line3[2] == "X":
                 return True
-    #jk i'm stopping with dat
+    #i'm stopping with dat
     if line1[0] == "X":
         if line2[0] == "X":
             if line3[0] == "X":
