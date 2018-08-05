@@ -28,3 +28,5 @@ While starting the game, it will show how many games you play. All the numbers a
 If you copy it onto your computer, you WILL NEED a file called 'tttfile.txt'. IT WILL GIVE YOU ERRORS WITHOUT IT.
 
 ALSO: FILE MUST BE IN SAME FOLDER AS TIC TAC TOE.
+
+# Have fun playing! :P
