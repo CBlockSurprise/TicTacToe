@@ -607,7 +607,7 @@ def player1():
             writefiles()
             print("You Lose...")
             speak.Speak("You Lose...")
-            webbrowser.open_new_tab("https://www.flickr.com/photos/jimyounkin/5059286742")
+            webbrowser.open_new_tab("https://i.kym-cdn.com/photos/images/newsfeed/000/096/044/trollface.jpg?1296494117")
             
             replay()
             return
