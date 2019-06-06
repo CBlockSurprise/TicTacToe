@@ -16,7 +16,7 @@ Also: A cats game is a tie.
 
 # Layout
 
-For playing, (when you are playing) it will ask you for a column and a row. You can refer to 'layout.png' to see which one you choose. The first number is the column in it, and the second number is the row. It will only work if the number is between 1 and 3.
+For playing, (when you are playing) it will ask you for a column and a row. You can refer to [layout.png](/layout.png) to see which one you choose. The first number is the column in it, and the second number is the row. It will only work if the number is between 1 and 3.
 
 # Game Count
 
