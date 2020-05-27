@@ -20,12 +20,12 @@ For playing, (when you are playing) it will ask you for a column and a row. You 
 
 # Game Count
 
-While starting the game, it will show how many games you play. All the numbers are going to be 0. It will never save. If you have it on your computer, it will save the count. *Note: Future me deleted the link to the online game. So download it on your computer to play.*
+While starting the game, it will show how many games you play. All the numbers are going to be 0. It will never save. If you have it on your computer, it will save the count. *Note: Future me deleted the link to the online game. So you will have to  download it on your computer to play.*
 
 # IMPORTANT
 
 If you copy it onto your computer, you WILL NEED a file called 'tttfile.txt'. *Future me, coming back looking upon this project again, realized that past me had no idea what was a try and catch function was. I don't want to edit the program, so just create it or else my program will crash.*
 
-The file needs to be in the same folder as program (oh i didn't know that).
+The file needs to be in the same folder as program.
 
-# ~~Have fun playing!~~ Please lose
+# ~~Have fun playing!~~ ~~Please lose~~ I keep changing this file every year, just have some fun.
