@@ -24,8 +24,8 @@ While starting the game, it will show how many games you play. All the numbers a
 
 # IMPORTANT
 
-If you copy it onto your computer, you WILL NEED a file called 'tttfile.txt'. *Future me, coming back looking upon this project again, realized that past me had no idea what was a try and catch function was. I don't want to edit the program, so just create it or else my program will crash.*
+If you copy it onto your computer, you WILL NEED a file called 'tttfile.txt'. *Future me, coming back looking upon this project again, realized that past me had no idea what was a try and catch function was. Nice job.*
 
 The file needs to be in the same folder as program.
 
-# ~~Have fun playing!~~ ~~Please lose~~ I keep changing this file every year, just have some fun.
+# Just have some fun lol
